@@ -3,8 +3,6 @@ import java.util.Scanner;
 /**
  Purpose :The RainFall class stores the total rainfall for 12 months into an array of doubles
  with methods to access the data stored in the array
- CSI 310 - Programming Lab 1
- Instructor Dr. Hurd
  @author Dong Woo Yoo
  @since 01-31-15
  */

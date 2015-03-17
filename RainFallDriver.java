@@ -1,7 +1,5 @@
 /**
  The RainfallDriver uses the Rainfall class and stores all the methods in the Rainfall class.
- CSI 310 - Programming Lab 1
- Instructor Dr. Hurd
  @author Dong Woo Yoo
  @since 01-31-15
  */
